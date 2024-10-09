@@ -62,4 +62,3 @@ This project is open-source and available under the MIT License.
 
 --- 
 
-This README should help users understand the functionality and usage of the program. Adjust the details if you add more features or make any changes to the code!
