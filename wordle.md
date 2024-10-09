@@ -72,4 +72,3 @@ This project is open source and available under the MIT License.
 
 --- 
 
-This README provides a summary of the game's functionality, installation, usage instructions, and an example of gameplay. Adjust it according to any additional features or modifications you add to the code!
